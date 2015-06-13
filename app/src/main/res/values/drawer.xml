@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drawer">
+        <item>Mapa</item>
+        <item>Add Home Marker</item>
+        <item>Animate to Home Marker</item>
+        <item>Informacion</item>
+    </array>
+</resources>
